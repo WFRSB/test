@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Warframe Raid School Bus
 ---
 # [Discord invite link](https://discord.gg/fHbhAA7){:target="_blank"}
 
