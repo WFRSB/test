@@ -3,21 +3,21 @@ layout: default
 ---
 # Law of Retribution - Rhino
 
-![Rhino](https://i.imgur.com/pnfxSi2.png)
+![Rhino](http://i.imgur.com/1s1uRb1.jpg)
 
-Easy to learn and difficult to master, Rhino brings soft crowd control, or CC, and team mobility. Her Molecular Prime can slow down enemies and make them take double damage, making high-priority targets significantly easier to kill, and strategically placed Worm Holes give the whole team access to instantaneous movement across the map. With a large energy pool, Nova is also a prime candidate for bomb carrying.
+When it comes to hard crowd control, Rhino is arguably the best choice for raids. Not only can he CC large areas in a second, but he can also buff allies when killing is needed. His ability to tank high amounts of damage make him  a good pick for inexperienced players.	
 
 * * *
 
 ## Recommended build
 
-![Rhino recommended build](https://i.imgur.com/R2lg2vV.jpg)
+![Rhino recommended build]()
 
 ## Budget build*
 
-![Rhino budget build](https://i.imgur.com/SpfCQHM.png)
+![Rhino budget build]()
 
-[Link to budget build](http://warframe-builder.com/Warframes/Builder/Nova/t_30_0200020030_4-3-5-6-5-5-7-0-5-14-1-5-34-8-5-49-4-6-57-2-5-520-7-3-615-6-5_7-9-14-5-57-15-4-9-49-12-6-6-615-9-520-9-34-14-f-f_0/en/1-0-13/)
+[Link to budget build](http://warframe-builder.com/Warframes/Builder/Rhino/t_30_0400040020_2-1-8-3-8-5-4-2-5-7-6-5-14-4-5-46-5-5-256-0-3-411-7-10-552-3-3_256-9-2-5-4-9-552-5-14-9-46-6-7-9-411-16-3-18-f-f_0/en/1-0-16)
 
 *_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
 
@@ -26,19 +26,15 @@ Easy to learn and difficult to master, Rhino brings soft crowd control, or CC, a
 ## Role: CC
 
 ## Build notes
-
-* 145% or higher strength is required to take full advantage of Molecular Prime's slow.
-* Duration is also very important because it affects the width of the area covered by Molecular Prime.
-* Higher range will make your Worm Holes longer, and your team faster but too high will often result in accidentally going out of map bounds. Around 100-120% is the sweet spot.
-* Be sure to equip Flow or Primed Flow to aid you in bomb carrying.
-* In the ideal build, Rush can be swapped for Natural Talent to decrease Molecular Prime's casting speed, or for Constitution to make each cast a wider area.
-* In the budget build, Escape Velocity can be swapped for Mobilize and the rank of Narrow Minded increased to 8 if you prefer the higher parkour speed or don't plan on using Worm Holes as much.
+* High range allows stomp to affect a large area. 
+* High efficiency allows you to constantly recast stomp to affect newly spawned enemies or enemies you did not catch before.
+* Having some amount of strength helps you to stay alive with the use of Iron Skin.
+* Natural talent is used to ensure you spend as little time as possible casting.
+* A movement mod is used because going fast is always better than going slow.
 
 ## Tactics
 
-* Make sure to recast Molecular Prime often in order to cover freshly spawned enemies or those that weren't in range of the previous wave.
-* Worm holes that go through an open door will keep working when the door closes, making it easier for the team to cross it. Always put at least 1 or 2 Worm Holes through the doors in stage 1 in order to free your teammates from stepping on pressure pads. Because of this, you should also try not to carry bombs in stage 1 unless your team has other Novas.
-* Use your Antimatter Drop together with Molecular Prime and a high burst damage weapon such as a shotgun to clear priority targets faster but be very careful not to kill enemies unnecessarily or your EV Trinity will have a hard time keeping everyone's energy topped off.
-* You can also shoot Antimatter drop to kill enemies around corners when you're stuck on pressure plates in the Hijack part of stage 2.
-* Worm Holes tend not to work very well if your latency (ping) to the host is high. If that is the case, consider choosing another frame.
-* Once Vay Hek becomes vulnerable, casting Molecular Prime on him will slow him down considerably while also making him take double damage. Highly recommended!
+* Make sure to recast Stomp whenever you have energy.
+* Be careful of stomping off pads in stages 2 and 3, as it could significantly slow down the raid if that happens.
+* Use your Iron Skin to keep yourself alive.
+* Use Rhino Charge to move around the map quickly.
