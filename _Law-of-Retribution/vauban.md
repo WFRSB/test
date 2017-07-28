@@ -5,7 +5,7 @@ layout: default
 
 ![Vauban](http://i.imgur.com/yLM0qPT.png)
 
-Vauban is one of the best hard CC frames out there. Vauban can throw many Bastilles which prevent enemies from even moving or attacking, making him an excellent choice for CC in Law of Retribution. Bastille is Vauban's one very useful ability in LoR, but the builds can be quite versatile. Range, Duration, Efficiency, and maybe a bit of Strength are all important for a good Vauban build.
+Just like Rhino, Vauban is one of the best choices for hard CC when it comes to raids. While being an easy frame to build and play, keep in mind that bastille, unlike rhino stomp, has a visual effect that can negatively affect your squad’s ability to visualize the objective, which is why it’s always recommended to carefully pick your energy color.
 
 * * *
 
