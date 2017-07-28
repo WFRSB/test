@@ -4,13 +4,11 @@ title: Warframe Raid School Bus
 ---
 # [Discord invite link](https://discord.gg/fHbhAA7){:target="_blank"}
 
-## Build guides
+## Builds
 
-### LoR
+### [Law of Retribution](Builds/Law-of-Retribution)
 
-- [Nova](builds/lor/nova)
-
-### JV
+### [Jordas Verdict](Builds/Jordas-Verdict)
 
 ## Other pages
 
