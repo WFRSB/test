@@ -13,11 +13,11 @@ Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed 
 
 ## Recommended build
 
-![Trinity recommended build](https://lh3.googleusercontent.com/ggEDBvgqgAWjNMlxBb9k8Wb0DotH16S3KrvrJ8SymUR3rM6o3DICBqxweRW8aFwZjeDGUIqZoN4WQ_MNnYOQDduPoj27y-iCdpdPLwmX4qWxdzL0LgcRnHbKSFTyw9Q7P0x0f31y)
+![Trinity recommended build](http://i.imgur.com/IVmEJoL.png)
 
 ## Budget build*
 
-![Trinity budget build](http://i.imgur.com/yeGp6cS.png)
+![Trinity budget build](http://i.imgur. com/yeGp6cS.png)
 
 [Link to budget build](http://warframe-builder.com/Warframes/Builder/Trinity/t_30_0400040040_2-5-8-4-4-5-12-2-8-37-8-5-46-1-5-55-0-5-411-6-8-523-3-3-552-7-3_55-11-46-6-12-14-523-9-4-9-2-5-411-14-552-5-37-14-f-f_0/en/1-0-18)
 
@@ -34,8 +34,10 @@ Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed 
 * If your duration is not low enough, you can shoot the enemies you EV to get the energy instantly. Warning: this leads to running out of targets very quickly!
 * High strength means they get more energy with each cast
 * Flow is important - if you run out of energy, so does the rest of your team, unless you have pads
+* Enemy Radar helps you easily find enemies to use EV on
 * Optional: replace Flow and QT with Vitality and Natural Talent
-* Optional: use handspring to deal with the hostile knock-back that is so prevalent in JV due to high numbers of Moas and Ancients
+* Optional: use Handspring to deal with the hostile knock-back that is so prevalent in JV due to high numbers of Moas and Ancients
+* Optional: use Corrosive Projection instead of Enemy Radar if your team lacks at least 4 to ensure total armour strip
 
 ## Tactics
 
@@ -43,9 +45,8 @@ Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed 
 * This is the only frame in the group that can get away with this. The group relies on you a lot, so you can let them take care pressure plates and such if you need to go away to find EV targets.
 * Keep an eye on your team's energy bars. Find team mates that are low, and help them out.
 * Prioritize bomb carriers! They are the most important frames you can give energy to.
-* Is your area very low on EV targets? This happens a lot. You can help yourself by first casting Well of Life on a target, and then EV. It will do much less damage to them and you can EV the same target many more times
+* Is your area very low on EV targets? This happens a lot. You can help yourself by alternating between Well of Life(1) on a target, and then EV. It will do much less damage to them and you can EV the same target many more times
 * Are you having trouble finding targets? There are two solutions:
-* Make sure someone in the raid has Enemy Radar equipped, it's very helpful, and it's the same polarity as CP. Alternatively, equip Enemy Sense in your exilus slot
 * Cast Link. Even though it only lasts for a few seconds, it indicates if there are enemies in the area or not, and where they are.
 * Remember: you can still press 4. If you notice a team mate is low on health or shields, cast Blessing to help them out. It won't give them any protection, but at least they will be at full health.
 * In stage 3 during the Hijack phase, make sure the power core driver always has enough shields to do his job.
