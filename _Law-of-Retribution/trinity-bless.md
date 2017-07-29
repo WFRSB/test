@@ -5,7 +5,7 @@ layout: default
 
 ![Trinity](http://i.imgur.com/xTe8O30.jpg?1)
 
-Your job as Bless Trin is to keep your team safe from direct harm. When CC fails, Blessing is the last line of defense they have against the angry Grineer guns. Make no mistake - your team will spread out of your range and buffing all of them is ultimately a hopeless task. You have to learn who to prioritize, when to refresh the buff and where to position yourself for maximum effect. When you do your job perfectly, no one will notice you are there. All that said, Bless Trin is actually one of the most relaxed and easy roles in the raid - perfect for a beginner.
+Bless Trinity is a very good pick in LOR due to the high amounts of damage your team has to tank, especially when CC fails. While playing an important role in keeping everyone alive, Bless trinity is quite easy to build and play, making her a good pick for even the most inexperienced raiders.
 
 * * *
 

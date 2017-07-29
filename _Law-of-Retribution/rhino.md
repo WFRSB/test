@@ -5,7 +5,7 @@ layout: default
 
 ![Rhino](https://i.imgur.com/pnfxSi2.png)
 
-Easy to learn and difficult to master, Rhino brings soft crowd control, or CC, and team mobility. Her Molecular Prime can slow down enemies and make them take double damage, making high-priority targets significantly easier to kill, and strategically placed Worm Holes give the whole team access to instantaneous movement across the map. With a large energy pool, Nova is also a prime candidate for bomb carrying.
+When it comes to hard crowd control, Rhino is arguably the best choice for raids. Not only can he CC large areas in a second, but he can also buff allies when killing is needed. His ability to tank high amounts of damage make him  a good pick for inexperienced players.	
 
 * * *
 

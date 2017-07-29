@@ -5,9 +5,7 @@ layout: default
 
 ![Trinity](http://i.imgur.com/4Yc7MFz.png)
 
-You are support. You do half of the work of you entire team, you get none of the credit, and you get all of the blame. Welcome to EV trinity.
-
-Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed on-demand EV targets in every stage. If you're on-point, there's no reason why your team shouldn't enjoy the benefit of a full overshield and energy pool throughout the run. Another blessing (pun not intended) is that your team will be much less spread out than they would be in LoR, as there are very few stages which have the team cover great distances. Enjoy having a much easier time. You are still getting yelled at when the Nekros goes down, though.
+EV Trinity is a mandatory frame to bring in raids unless you’re willing to spend a lot of resources. Due to the bomb charging mechanics and high amounts of CC your allies have to spam, an EV really shines keeping everyone full of energy. While it’s an easy frame to build and play, it requires requires you to concentrate more than if you were playing another frame, since you need to constantly find targets to EV and make sure your team has enough energy to do their job.
 
 * * *
 
