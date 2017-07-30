@@ -5,7 +5,7 @@ layout: default
 
 ![Volt](http://i.imgur.com/jByK7z8.png)
 
-One of the core speedrun frames, Volt can boost his teammates' speed and damage output while also shielding them from damage and providing some light crowd control.
+King of speed, Volt is a very versatile frame and widely used not only in normal runs but also speedruns. Not only can he make the raid go a lot faster, but his unique abilites allow him to buff his allies damage considerably and also CC the enemies (albeit smaller range of CC than Rhino and Vauban).
 
 * * *
 

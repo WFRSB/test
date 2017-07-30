@@ -5,6 +5,8 @@ layout: default
 
 * * *
 
+## Arch-Guns
+
 ## Velocitus
 
 ![Velocitus recommended build](https://cdn.discordapp.com/attachments/216604064786546688/248598219905433601/unknown.png)
@@ -36,4 +38,38 @@ layout: default
 
 *_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
 
-## Build notes
+* * *
+
+## Fluctus
+
+The Fluctus may not deal as much damage as the Velocitus and Imperator (Vandal) it provides great utility due to the infinite punch through it comes with.
+
+![Fluctus recommended build]()
+
+## Budget build*
+
+![Fluctus budget build]()
+
+[Link to budget build]()
+
+*_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
+
+* * *
+
+## Arch-melee
+
+When you are modding your arch-melee weapon do not put viral on it due being able to effect the spore.
+
+# Top Tier
+
+The following arch-melee weapons have high attack speed and make pushing spores easier.
+
+* Centaur
+* Veritux
+
+# Avoid
+
+Certain melee weapons in JV are not ideal to bring due to the slow attack speed that they have.  It makes pushing spores difficult.
+
+* Knux
+* Kaszas

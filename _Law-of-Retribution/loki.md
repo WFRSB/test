@@ -5,7 +5,7 @@ layout: default
 
 ![Loki](http://i.imgur.com/DL8ebs2.jpg)
 
-Loki is one of the most useful for Law of Retribution; a core frame. Loki can disarm large groups of enemies with unlimited duration, distract Vay Hek in the last stage to prevent your allies from being hit by rockets, and has a large energy pool. Loki can also go invisible for his own survivability. Range, Efficiency, and a bit of duration are important for an effective Disarm Loki build. Strength makes no difference.
+Loki is a reliable frame to bring in any LoR squad. Not only his high energy pool allows him to bomb carry, but also his abilities allow for aggro loss, aggro pull, soft cc, mobility and enemy displacement for ev trinity. All of his abilities are relevant throughout the entire raid.
 
 * * *
 
