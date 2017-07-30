@@ -5,9 +5,9 @@ layout: default
 
 ![Amesha](http://i.imgur.com/EdMM69r.png)
 
-Having a good Archwing build in the Jordas Verdict is important in order to stay alive. That's why most raiders prefer Amesha. The first ability, **Watchful Swarm**, will keep you from taking damage and keep your shields up in trench runs on stage 3. Its second ability, Benevolent Decoy is used to keep the spore alive from enemy fire as other raiders push it through. On top of that, Watchful Swarm may be applied to team mates to shield them from harm. 
+Your Archwing build in the Jordas Verdict will mark the difference between making the raid easy or constantly needing to be revived. For that purpose, Amesha is arguably the best choice, not only for new players but also for experienced raiders. This archwing doesn’t just allow you to protect yourself and your team, but you will also be able to replenish yours and your squads health and energy.
 
-Make no mistake - if there is such a thing as Archwing God-mode, Amesha is it. 
+Make no mistake - if there is such a thing as Archwing God-mode, Amesha is it.
 
 * * *
 

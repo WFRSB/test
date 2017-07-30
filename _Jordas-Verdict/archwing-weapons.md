@@ -9,6 +9,8 @@ layout: default
 
 ## Velocitus
 
+Velocitus is the arch-gun with, by far, the highest damage output per second. While it may not be the best suited gun for shooting multiple buttons in stage 1 (especially with low FPS), nothing beats it when it comes to killing the Golem.
+
 ![Velocitus recommended build](https://cdn.discordapp.com/attachments/216604064786546688/248598219905433601/unknown.png)
 
 ## Budget build*
@@ -42,13 +44,29 @@ layout: default
 
 ## Fluctus
 
-The Fluctus may not deal as much damage as the Velocitus and Imperator (Vandal) it provides great utility due to the infinite punch through it comes with.
+Even though the fluctus doesn’t deal nearly as much damage as the Velocitus, it proves to be really helpful when it comes to shooting buttons due to it’s infinite punch through.
 
 ![Fluctus recommended build]()
 
 ## Budget build*
 
 ![Fluctus budget build]()
+
+[Link to budget build]()
+
+*_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
+
+* * *
+
+## Grattler
+
+Just like Fluctus, this weapon is great for shooting multiple buttons. It also deals considerably more damage than the aforementioned gun. Be careful though! grattler deals self damage, and unexperienced players will end up killing themselves more than once.
+
+![Grattler recommended build]()
+
+## Budget build*
+
+![Grattler budget build]()
 
 [Link to budget build]()
 
