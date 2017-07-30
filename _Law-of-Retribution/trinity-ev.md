@@ -17,7 +17,7 @@ Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed 
 
 ## Budget build*
 
-![Trinity budget build](http://i.imgur. com/yeGp6cS.png)
+![Trinity budget build](http://i.imgur.com/yeGp6cS.png)
 
 [Link to budget build](http://warframe-builder.com/Warframes/Builder/Trinity/t_30_0400040040_2-5-8-4-4-5-12-2-8-37-8-5-46-1-5-55-0-5-411-6-8-523-3-3-552-7-3_55-11-46-6-12-14-523-9-4-9-2-5-411-14-552-5-37-14-f-f_0/en/1-0-18)
 
