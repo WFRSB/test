@@ -11,11 +11,11 @@ In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrat
 
 ## Recommended build
 
-![Nekros recommended build](https://cdn.discordapp.com/attachments/298094289525669889/305186977089716225/Nekros_Max_Range_JV.png)
+![Nekros recommended build](http://i.imgur.com/rPGOnpY.png)
 
 ## Budget build*
 
-![Nekros budget build](https://lh5.googleusercontent.com/7ucCLA4NGlFqvZkXJtN2cz_gWqUAFFtboDJ3-wP-DGY2HWsb0WJBTj4VaiHEsk1I-JW_2j8coR3e3hK_MENUVgZSffS2ZMhLotp6MrX-oauprzvbLEITK7LVyvDeAMZAjCj6n-PV)
+![Nekros budget build](http://i.imgur.com/YH6ivWh.png)
 
 [Link to budget build](http://warframe-builder.com/Warframes/Builder/Nekros/t_30_0400020000_2-3-8-4-2-5-5-0-5-14-5-5-34-8-5-46-4-5-57-1-5-398-7-0-458-6-3_5-9-57-8-4-9-2-10-46-11-14-5-458-9-398-6-34-7-f-f_0/en/1-0-12)
 

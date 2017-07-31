@@ -13,7 +13,7 @@ Make no mistake - if there is such a thing as Archwing God-mode, Amesha is it.
 
 ## Recommended build
 
-![Amesha recommended build](https://cdn.discordapp.com/attachments/245743045868257280/248526833157537793/unknown.png)
+![Amesha recommended build](http://i.imgur.com/Gd0B9sZ.png)
 
 ## Budget build*
 

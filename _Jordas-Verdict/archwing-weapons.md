@@ -11,7 +11,7 @@ layout: default
 
 Velocitus is the arch-gun with, by far, the highest damage output per second. While it may not be the best suited gun for shooting multiple buttons in stage 1 (especially with low FPS), nothing beats it when it comes to killing the Golem.
 
-![Velocitus recommended build](https://cdn.discordapp.com/attachments/216604064786546688/248598219905433601/unknown.png)
+![Velocitus recommended build](http://i.imgur.com/yYkEBLK.png)
 
 ## Budget build*
 

@@ -11,7 +11,7 @@ Just like Rhino, Vauban is one of the best choices for hard CC when it comes to 
 
 ## Recommended build
 
-![Vauban recommended build](https://cdn.discordapp.com/attachments/245743045868257280/248537100192841729/vauban.PNG)
+![Vauban recommended build](http://i.imgur.com/fLY9ybb.png)
 
 ## Budget build*
 
