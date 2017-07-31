@@ -11,7 +11,7 @@ In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrat
 
 ## Recommended build
 
-![Nekros recommended build](https://lh6.googleusercontent.com/g-Wl-YcVnxnXXvDUSOUM0PFPSqhD_JvfHZosiOUpxjumf1u9Q-aO9du6v1WiZZNuC31hx0-lbK0ET6aOWHGcFWenFz3CLn3g7DbkQKBKNXDba2Fiv2GZDjtX6d-i2FTy_OGf7Tz7)
+![Nekros recommended build](https://cdn.discordapp.com/attachments/298094289525669889/305186977089716225/Nekros_Max_Range_JV.png)
 
 ## Budget build*
 
@@ -41,4 +41,3 @@ In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrat
 * Remember to reactivate Desecrate each time you have to revive and each time you fly through the trench in phase 3
 * In the Decryption stage, it’s enough to stand near one of the three consoles. This way you’re inside a vaporizer bubble and cover the entire room for desecration.
 * If the situation gets difficult with enemies, cast Terrify. That’ll scare them away.
-* When an ally is down and it’s difficult to revive them due to distance or hordes of enemies, cast Soul Punch while using Soul Survivor to revive them.
