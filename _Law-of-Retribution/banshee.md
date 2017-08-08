@@ -53,4 +53,4 @@ Banshee might not be the best choice for CC in Raids. However, her high energy p
 
 ## Side-Notes 
 
-* Due to the fact that Banshee really only needs 5 mods to be raid ready so I recommend getting her if you don't have an extensive mod collection.
+* Due to the fact that Banshee really only needs 5 mods to be raid ready, I recommend getting her if you don't have an extensive mod collection.
