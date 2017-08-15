@@ -5,7 +5,7 @@ layout: default
 
 ![Odonata](http://i.imgur.com/Rg89iW2.jpg?1)
 
-For ever underestimated and overlooked, Odonata has always been a prime choice of Archwing for Jordas Verdict. In fact, most speedrunners use teams made up of at least 4-5 Odonatas. Don't discard it just because it is the first archwing you tried out. 
+Forever underestimated and overlooked, Odonata has always been a prime choice of Archwing for Jordas Verdict. In fact, most speedrunners use teams made up of at least 4-5 Odonatas, due to it’s ability to buff your teams damage output and make the final boss fight a lot easier. Don’t discard it just because it is the first archwing you tried out.
 
 * * *
 

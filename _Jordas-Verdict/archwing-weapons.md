@@ -5,9 +5,13 @@ layout: default
 
 * * *
 
+## Arch-Guns
+
 ## Velocitus
 
-![Velocitus recommended build](https://cdn.discordapp.com/attachments/216604064786546688/248598219905433601/unknown.png)
+Velocitus is the arch-gun with, by far, the highest damage output per second. While it may not be the best suited gun for shooting multiple buttons in stage 1 (especially with low FPS), nothing beats it when it comes to killing the Golem.
+
+![Velocitus recommended build](http://i.imgur.com/yYkEBLK.png)
 
 ## Budget build*
 
@@ -36,4 +40,54 @@ layout: default
 
 *_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
 
-## Build notes
+* * *
+
+## Fluctus
+
+Even though the fluctus doesn’t deal nearly as much damage as the Velocitus, it proves to be really helpful when it comes to shooting buttons due to it’s infinite punch through.
+
+![Fluctus recommended build]()
+
+## Budget build*
+
+![Fluctus budget build]()
+
+[Link to budget build]()
+
+*_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
+
+* * *
+
+## Grattler
+
+Just like Fluctus, this weapon is great for shooting multiple buttons. It also deals considerably more damage than the aforementioned gun. Be careful though! grattler deals self damage, and unexperienced players will end up killing themselves more than once.
+
+![Grattler recommended build]()
+
+## Budget build*
+
+![Grattler budget build]()
+
+[Link to budget build]()
+
+*_budget build means no forma, no primed warframe, no primed mods, no event or Baro Kit'eer mods, and no mods over rank 8_
+
+* * *
+
+## Arch-melee
+
+When you are modding your arch-melee weapon do not put viral on it due being able to effect the spore.
+
+# Top Tier
+
+The following arch-melee weapons have high attack speed and make pushing spores easier.
+
+* Centaur
+* Veritux
+
+# Avoid
+
+Certain melee weapons in JV are not ideal to bring due to the slow attack speed that they have.  It makes pushing spores difficult.
+
+* Knux
+* Kaszas

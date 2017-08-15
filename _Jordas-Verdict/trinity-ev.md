@@ -13,7 +13,7 @@ Thankfully, JV is so saturated with enemy spawns that you are almost guaranteed 
 
 ## Recommended build
 
-![Trinity recommended build](https://lh3.googleusercontent.com/ggEDBvgqgAWjNMlxBb9k8Wb0DotH16S3KrvrJ8SymUR3rM6o3DICBqxweRW8aFwZjeDGUIqZoN4WQ_MNnYOQDduPoj27y-iCdpdPLwmX4qWxdzL0LgcRnHbKSFTyw9Q7P0x0f31y)
+![Trinity recommended build](http://i.imgur.com/IVmEJoL.png)
 
 ## Budget build*
 

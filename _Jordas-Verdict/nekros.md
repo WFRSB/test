@@ -11,11 +11,11 @@ In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrat
 
 ## Recommended build
 
-![Nekros recommended build](https://lh6.googleusercontent.com/g-Wl-YcVnxnXXvDUSOUM0PFPSqhD_JvfHZosiOUpxjumf1u9Q-aO9du6v1WiZZNuC31hx0-lbK0ET6aOWHGcFWenFz3CLn3g7DbkQKBKNXDba2Fiv2GZDjtX6d-i2FTy_OGf7Tz7)
+![Nekros recommended build](http://i.imgur.com/rPGOnpY.png)
 
 ## Budget build*
 
-![Nekros budget build](https://lh5.googleusercontent.com/7ucCLA4NGlFqvZkXJtN2cz_gWqUAFFtboDJ3-wP-DGY2HWsb0WJBTj4VaiHEsk1I-JW_2j8coR3e3hK_MENUVgZSffS2ZMhLotp6MrX-oauprzvbLEITK7LVyvDeAMZAjCj6n-PV)
+![Nekros budget build](http://i.imgur.com/YH6ivWh.png)
 
 [Link to budget build](http://warframe-builder.com/Warframes/Builder/Nekros/t_30_0400020000_2-3-8-4-2-5-5-0-5-14-5-5-34-8-5-46-4-5-57-1-5-398-7-0-458-6-3_5-9-57-8-4-9-2-10-46-11-14-5-458-9-398-6-34-7-f-f_0/en/1-0-12)
 
@@ -41,4 +41,3 @@ In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrat
 * Remember to reactivate Desecrate each time you have to revive and each time you fly through the trench in phase 3
 * In the Decryption stage, it’s enough to stand near one of the three consoles. This way you’re inside a vaporizer bubble and cover the entire room for desecration.
 * If the situation gets difficult with enemies, cast Terrify. That’ll scare them away.
-* When an ally is down and it’s difficult to revive them due to distance or hordes of enemies, cast Soul Punch while using Soul Survivor to revive them.

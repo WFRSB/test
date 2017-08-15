@@ -5,13 +5,13 @@ layout: default
 
 ![Banshee](http://i.imgur.com/4RJZXB4.jpg)
 
-Although Banshee does not have a lot of uses in The Law of Retribution, she can still provide some important services such as allowing the team to instantly kill Vey Hek and carry bombs with her high power pool.
+Banshee might not be the best choice for CC in Raids. However, her high energy pool and unique abilities make her a very useful frame in specific stages of the raid.
 
 * * *
 
 ## Recommended build
 
-![Banshee recommended build](http://i.imgur.com/jOtTs5D.png)
+![Banshee recommended build](http://i.imgur.com/CNYxkW9.png)
 
 ## Budget build*
 
@@ -53,4 +53,4 @@ Although Banshee does not have a lot of uses in The Law of Retribution, she can 
 
 ## Side-Notes 
 
-* Due to the fact that Banshee really only needs 5 mods to be raid ready so I recommend getting her if you don't have an extensive mod collection.
+* Due to the fact that Banshee really only needs 5 mods to be raid ready, I recommend getting her if you don't have an extensive mod collection.
