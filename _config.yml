@@ -10,6 +10,9 @@ collections:
   Jordas-Verdict:
     output: true
     permalink: /Builds/Jordas-Verdict/:slug/
+  Guides:
+    output: true
+    permalink: /Guides/Raids/:slug/
 github:
   is_project_page: false
   repository_url: https://github.com/WFRSB/wfrsb.github.io
