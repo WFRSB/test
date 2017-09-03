@@ -12,6 +12,8 @@ title: Warframe Raid School Bus
 
 ## Other pages
 
+- [Quick Start Guides](Guides/Raids)
+
 - [Manuals](manuals)
 
 * * *
