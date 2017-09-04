@@ -2,7 +2,7 @@
 layout: default
 title: Warframe Raid School Bus
 ---
-# [Discord invite link: rsb.wf/join](Join){:target="_blank"}
+# [Discord invite link: rsb.wf/join](join){:target="_blank"}
 
 ## Builds
 
